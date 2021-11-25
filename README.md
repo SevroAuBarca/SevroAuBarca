@@ -30,8 +30,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SevroAuBarca&repo=Beginner-Cooking-App&theme=synthwave)](https://github.com/SevroAuBarca/Beginner-Cooking-App)
 ## Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SevroAuBarca&theme=synthwave&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevroAuBarca&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Daniel´s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Au_Lune&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevroAuBarca&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel´s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Au_Lune&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
