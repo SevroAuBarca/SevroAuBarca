@@ -27,7 +27,7 @@
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
   
 ## Proyects i Made
-[![Cocking App](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=synthwave)](https://github.com/SevroAuBarca/Beginner-Cooking-App)
+[![Cocking App](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=cocking-app&theme=synthwave)](https://github.com/SevroAuBarca/Beginner-Cooking-App)
 ## Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SevroAuBarca&theme=synthwave&show_icons=true)
   
