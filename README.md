@@ -28,7 +28,8 @@
   
 ## Proyects i Made
 
-  
+## Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SevroAuBarca&theme=synthwave&show_icons=true)
   
 ## Other stuff
   
