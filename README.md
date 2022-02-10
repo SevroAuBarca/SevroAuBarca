@@ -40,7 +40,7 @@
   
   if you are interested, those are te books i read this year:
   
-  ![Fight Club](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558216416l/36236124._SY475_.jpg) 
+  ![Fight Club](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558216416l/36236124._SX98_.jpg) 
 
   
   
