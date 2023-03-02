@@ -16,7 +16,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Angular](https://img.shields.io/badge/angular-%fc0320.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![Angular](https://img.shields.io/badge/angular-red.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
 
   
