@@ -18,6 +18,7 @@
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Angular](https://img.shields.io/badge/angular-red.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![C#](https://img.shields.io/badge/csharp-blueviolet.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
   
 ## Tecnologies i'm learning
@@ -28,6 +29,8 @@
 ## Want To Learn
   
   ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+  ![Next.JS](https://img.shields.io/badge/nextjs-black.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+  
   
 ## Proyects i Made
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SevroAuBarca&repo=Beginner-Cooking-App&theme=synthwave)](https://github.com/SevroAuBarca/Beginner-Cooking-App)
