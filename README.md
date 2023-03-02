@@ -28,27 +28,19 @@
 ## Want To Learn
   
   ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-  ![Next.JS](https://img.shields.io/badge/nextjs-black.svg?style=for-the-badge&logo=next-js&logoColor=white)
+  ![Next.JS](https://img.shields.io/badge/nextjs-black.svg?style=for-the-badge&logo=next&logoColor=white)
   ![Astro](https://img.shields.io/badge/Astro-orange.svg?style=for-the-badge&logo=astro&logoColor=white)
-  
-  
   
 ## Proyects i Made
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SevroAuBarca&repo=Beginner-Cooking-App&theme=synthwave)](https://github.com/SevroAuBarca/Beginner-Cooking-App)
 [![frontend Mentor](https://github-readme-stats.vercel.app/api/pin/?username=SevroAuBarca&repo=Frontend-Mentor-Proyects&theme=synthwave)](https://github.com/SevroAuBarca/Frontend-Mentor-Proyects)
+[![One Piece Api](https://github-readme-stats.vercel.app/api/pin/?username=SevroAuBarca&repo=One-Piece-api&theme=synthwave)](https://github.com/SevroAuBarca/One-Piece-api)
+
 ## Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SevroAuBarca&theme=synthwave&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevroAuBarca&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Daniel´s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Au_Lune&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  
-## Other stuff
-  
-  if you are interested, those are te books i read this year:
-  
-  ![Fight Club](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558216416l/36236124._SX98_.jpg) 
-
-  
   
   
