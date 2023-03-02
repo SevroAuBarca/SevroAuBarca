@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Daniel and my user is @SevroAuBarca
 - 👀 I’m interested in JavaScript, Reactjs, CSS, Read books & manga
-- 🌱 I’m currently learning Vue.js Svelte, Sass
+- 🌱 I’m currently learning .NET
 
 ## Tecnologies i Know
 
@@ -19,7 +19,6 @@
   ![Angular](https://img.shields.io/badge/angular-red.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
   ![C#](https://img.shields.io/badge/csharp-blueviolet.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
   
 ## Tecnologies i'm learning
   
@@ -29,7 +28,9 @@
 ## Want To Learn
   
   ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-  ![Next.JS](https://img.shields.io/badge/nextjs-black.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+  ![Next.JS](https://img.shields.io/badge/nextjs-black.svg?style=for-the-badge&logo=next-js&logoColor=white)
+  ![Astro](https://img.shields.io/badge/Astro-orange.svg?style=for-the-badge&logo=astro&logoColor=white)
+  
   
   
 ## Proyects i Made
